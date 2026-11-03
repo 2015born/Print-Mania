@@ -7,3 +7,19 @@
   <h3>$5.00</h3>
   <button>Buy Now</button>
 </div>
+
+<div class="product">
+  <img src="pumpkin-clicker.jpg"
+       alt="Pumpkin Fidget Clicker"
+       width="200">
+
+  <h2>🎃 Pumpkin Fidget Clicker</h2>
+
+  <p>A fun 3D-printed pumpkin fidget clicker!</p>
+
+  <h3>$5.00</h3>
+
+  <button onclick="alert('Contact us to order!')">
+    Buy Now
+  </button>
+</div>
