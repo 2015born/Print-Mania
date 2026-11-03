@@ -1,0 +1,9 @@
+<div class="product">
+  <h2>🎃 Pumpkin Fidget Clicker</h2>
+  <img src="pumpkin-clicker.jpg"
+       alt="Pumpkin Fidget Clicker"
+       width="250">
+  <p>A fun 3D-printed pumpkin clicker!</p>
+  <h3>$5.00</h3>
+  <button>Buy Now</button>
+</div>
